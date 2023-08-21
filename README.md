@@ -1,5 +1,5 @@
 # MNIST Excursions
-**``By Hans-Henrik Fuxelius, 2023-05-29``
+**``By Hans-Henrik Fuxelius, 2023-08-21``
 
 The objective here is, by dimensionality reduction, to take an image as input and reproduce an image as output by regression. It does not learn the features of the images, but the rules for transformation to desired output!
 
